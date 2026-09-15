@@ -41,7 +41,7 @@ module.exports = {
     const pong = Date.now() - ping;
 
     const lines = [
-      `╔════ DAVID V1 — Status ════╗`,
+      `╔════ 『𝙄𝘽𝙇𝙄𝙎』 V1 — Status ════╗`,
       `║ 🤖 Bot ID: ${uid}`,
       `║ ⏱ Uptime: ${formatUptime(upMs)}`,
       `║ 🏓 Ping: ${pong}ms`,
@@ -50,7 +50,7 @@ module.exports = {
       `║ 💻 System RAM: ${((sysM.total-sysM.free)/1073741824).toFixed(2)}/${(sysM.total/1073741824).toFixed(2)} GB`,
       `║ 🛡 Protection: 20 طبقة نشطة`,
       `║ 🔑 Prefix: ${prefix}`,
-      `║ 👑 By: DJAMEL`,
+      `║ 👑 By: 𖤐 IBLIS X 𖤐`,
       `╚══════════════════════════╝`
     ];
 
