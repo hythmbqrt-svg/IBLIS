@@ -1,6 +1,6 @@
 /**
- * DAVID V1 — /help — قائمة الأوامر الكاملة (Hybrid Edition)
- * Copyright © 2025 DJAMEL — All rights reserved
+ * 𖤐 IBLIS X 𖤐 V1 — /help — قائمة الأوامر الكاملة (Hybrid Edition)
+ * Copyright © 2025 『𝙄𝘽𝙇𝙄𝙎』 — All rights reserved
  * DAVID V1 + WHITE-V3 merged commands
  */
 "use strict";
